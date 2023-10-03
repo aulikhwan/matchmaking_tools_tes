@@ -1,0 +1,223 @@
+row_number_demand,po_number,demand_month,customer_name,customer_id,customer_area,customer_location,etd,etd_type,ordered_sku_code,ordered_sku_name,ordered_sku_type,raw_material_size,total_rm_kg,order_notes
+2,,October,USA,,USA,USA,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 32 - 36 ,31834.0,Certification: BAP 4 Stars / Full
+3,113297,October,Rastelli,,USA,USA,2023-10-02T00:00:00+07:00,filled,,,P&D - Cooked, 40 - 48 ,39612.0,Certification: BAP 4 Stars / Full
+4,,November,USA,,USA,USA,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 30 - 34 ,33670.0,Certification: BAP 2 Stars
+5,,November,USA,,USA,USA,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 32 - 36 ,31834.0,Certification: BAP 4 Stars / Full
+6,,November,USA,,USA,USA,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 44 - 49 ,31834.0,Certification: BAP 4 Stars / Full
+7,,December,USA,,USA,USA,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 18 - 23 ,33670.0,Certification: BAP 2 Star
+8,,December,USA,,USA,USA,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Cooked, 21 - 25  ,39612.0,Certification: BAP 4 Stars / Full
+9,,December,USA,,USA,USA,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 35 - 40 ,33670.0,Certification: BAP 2 Star
+10,QDYT - 2301,September,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,2023-09-29T00:00:00+07:00,filled,UDV-2-HOSO-3-C-C2-RB1800gr-31-40-10800gr-EXP,Udang Vannamei Frozen HOSO Chemfree Glaze Compensated 10-12 RB 1800gr 31-40 10800gr EXP,HOSO - Raw, 34 - 35 ,3086.0,Uncertified demand
+11,QDYT - 2301,September,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,2023-09-29T00:00:00+07:00,filled,UDV-2-HOSO-3-C-C2-RB1800gr-41-50-10800gr-EXP,Udang Vannamei Frozen HOSO Chemfree Glaze Compensated 10-12 RB 1800gr 41-50 10800gr EXP,HOSO - Raw, 44 - 45 ,727.0,Uncertified demand
+12,QDYT - 2301,September,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,2023-09-29T00:00:00+07:00,filled,UDV-2-HOSO-3-C-C2-RB1800gr-51-60-10800gr-EXP,Udang Vannamei Frozen HOSO Chemfree Glaze Compensated 10-12 RB 1800gr 51-60 10800gr EXP,HOSO - Raw, 54 - 55 ,727.0,Uncertified demand
+13,QDYT - 2301,September,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,2023-09-29T00:00:00+07:00,filled,UDV-2-RPD-2-S_12-U-RB500gr-31-40-10kg-EXP,Udang Vannamei Frozen RPD STPP 12 hrs Glaze Uncompensated 10-15 RB 500gr 31-40 10kg EXP,P&D - Raw, 40 - 41 ,2596.0,Uncertified demand
+14,QDYT - 2301,September,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,2023-09-29T00:00:00+07:00,filled,UDV-2-RPD-2-S_12-U-RB500gr-41-50-10kg-EXP,Udang Vannamei Frozen RPD STPP 12 hrs Glaze Uncompensated 10-15 RB 500gr 41-50 10kg EXP,P&D - Raw, 51 - 52 ,2596.0,Uncertified demand
+15,QDYT - 2301,September,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,2023-09-29T00:00:00+07:00,filled,UDV-2-RPD-2-S_12-U-RB500gr-51-60-10kg-EXP,Udang Vannamei Frozen RPD STPP 12 hrs Glaze Uncompensated 10-15 RB 500gr 51-60 10kg EXP,P&D - Raw, 63 - 64 ,20865.0,Uncertified demand
+16,,October,NTUC,,Asia,Singapore,2023-10-16T14:39:08.703508+07:00,estimated,,"12 packet x 700g / 8.4kg net weight per carton
+Carton: 12 packet
+IQF
+MC: plain white
+Inner: 5 colours",PDTO - Raw, 38 - 42 ,10182.0,Certification: BAP 2 Star
+17,,October,NTUC,,Asia,Singapore,2023-10-16T14:39:08.703508+07:00,estimated,,"20 packet x 400g / 8kg net weight per carton
+Carton: 20 packet
+IQF
+MC: plain white
+Inner: 5 colours",P&D - Raw, 35 - 46 ,23077.0,Certification: BAP 2 Star
+18,,October,NTUC,,Asia,Singapore,2023-10-16T14:39:08.703508+07:00,estimated,,"12 packet x 700g / 8.4kg net weight per carton
+Carton: 12 packet
+IQF
+MC: plain white
+Inner: 5 colours",PDTO - Raw,37 - 46,10182.0,Certification: BAP 2 Star
+19,,October,NTUC,,Asia,Singapore,2023-10-16T14:39:08.703508+07:00,estimated,,"20 packet x 400g / 8kg net weight per carton
+Carton: 20 packet
+IQF
+MC: plain white
+Inner: 5 colours",PDTO - Cooked,60 - 71,8556.0,Certification: BAP 2 Star
+20,,October,NTUC,,Asia,Singapore,2023-10-16T14:39:08.703508+07:00,estimated,,"20 packet x 400g / 8kg net weight per carton
+Carton: 20 packet
+IQF
+MC: plain white
+Inner: 5 colours",P&D - Cooked,70 - 80,9050.0,Certification: BAP 2 Star
+21,,November,Edaran Jutamas Sdn Bhd,,Asia,Malaysia,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 38 - 49 ,4909.0,
+22,,November,Edaran Jutamas Sdn Bhd,,Asia,Malaysia,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 50 - 61 ,4909.0,
+23,,November,Edaran Jutamas Sdn Bhd,,Asia,Malaysia,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 62 - 73 ,6545.0,
+24,,November,Edaran Jutamas Sdn Bhd,,Asia,Malaysia,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 35 - 46 ,5192.0,
+25,,November,Edaran Jutamas Sdn Bhd,,Asia,Malaysia,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 47 - 57 ,5192.0,
+26,,November,Edaran Jutamas Sdn Bhd,,Asia,Malaysia,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 58 - 69 ,6923.0,
+27,,December,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,2023-10-16T14:39:08.703508+07:00,estimated,UDV-2-HOSO-3-C-C2-RB1800gr-31-40-10800gr-EXP,Udang Vannamei Frozen HOSO Chemfree Glaze Compensated 10-12 RB 1800gr 31-40 10800gr EXP,HOSO - Raw, 34 - 35 ,3122.0,
+28,,December,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,2023-10-16T14:39:08.703508+07:00,estimated,UDV-2-HOSO-3-C-C2-RB1800gr-41-50-10800gr-EXP,Udang Vannamei Frozen HOSO Chemfree Glaze Compensated 10-12 RB 1800gr 41-50 10800gr EXP,HOSO - Raw, 44 - 45 ,735.0,
+29,,December,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,2023-10-16T14:39:08.703508+07:00,estimated,UDV-2-HOSO-3-C-C2-RB1800gr-51-60-10800gr-EXP,Udang Vannamei Frozen HOSO Chemfree Glaze Compensated 10-12 RB 1800gr 51-60 10800gr EXP,HOSO - Raw, 54 - 55 ,735.0,
+30,,December,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,2023-10-16T14:39:08.703508+07:00,estimated,UDV-2-RPD-2-S_12-U-RB500gr-31-40-10kg-EXP,Udang Vannamei Frozen RPD STPP 12 hrs Glaze Uncompensated 10-15 RB 500gr 31-40 10kg EXP,P&D - Raw, 40 - 41 ,2596.0,
+31,,December,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,2023-10-16T14:39:08.703508+07:00,estimated,UDV-2-RPD-2-S_12-U-RB500gr-41-50-10kg-EXP,Udang Vannamei Frozen RPD STPP 12 hrs Glaze Uncompensated 10-15 RB 500gr 41-50 10kg EXP,P&D - Raw, 51 - 52 ,2596.0,
+32,,December,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,2023-10-16T14:39:08.703508+07:00,estimated,UDV-2-RPD-2-S_12-U-RB500gr-51-60-10kg-EXP,Udang Vannamei Frozen RPD STPP 12 hrs Glaze Uncompensated 10-15 RB 500gr 51-60 10kg EXP,P&D - Raw, 63 - 64 ,20769.0,
+33,,December,NTUC,,Asia,Singapore,2023-10-16T14:39:08.703508+07:00,estimated,,"12 packet x 700g / 8.4kg net weight per carton
+Carton: 12 packet
+IQF
+MC: plain white
+Inner: 5 colours",PDTO - Raw, 38 - 42 ,5875.0,Certification: BAP 2 Star
+34,,December,NTUC,,Asia,Singapore,2023-10-16T14:39:08.703508+07:00,estimated,,"20 packet x 400g / 8kg net weight per carton
+Carton: 20 packet
+IQF
+MC: plain white
+Inner: 5 colours",P&D - Raw, 35 - 46 ,13315.0,Certification: BAP 2 Star
+35,,December,NTUC,,Asia,Singapore,2023-10-16T14:39:08.703508+07:00,estimated,,"12 packet x 700g / 8.4kg net weight per carton
+Carton: 12 packet
+IQF
+MC: plain white
+Inner: 5 colours",PDTO - Raw,37 - 46,5875.0,Certification: BAP 2 Star
+36,,December,NTUC,,Asia,Singapore,2023-10-16T14:39:08.703508+07:00,estimated,,"20 packet x 400g / 8kg net weight per carton
+Carton: 20 packet
+IQF
+MC: plain white
+Inner: 5 colours",PDTO - Cooked,60 - 71,4937.0,Certification: BAP 2 Star
+37,,December,NTUC,,Asia,Singapore,2023-10-16T14:39:08.703508+07:00,estimated,,"20 packet x 400g / 8kg net weight per carton
+Carton: 20 packet
+IQF
+MC: plain white
+Inner: 5 colours",P&D - Cooked,70 - 80,5222.0,Certification: BAP 2 Star
+38,,September,AEON,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Cooked, 9 - 13  ,2262.0,BPOM Halal & White Labeling (Could be exclusive brand)
+39,,September,AEON,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 11 - 15 ,173.0,
+40,,September,AEON,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 50 - 59 ,2041.0,
+41,,September,Superindo,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,HOSO - Raw, 50 - 59 ,510.0,
+42,,September,Superindo,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 59 - 68 ,6122.0,
+43,,September,HERO,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 59 - 68 ,612.0,
+44,,September,GS Supermarket ,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 59 - 68 ,765.0,
+45,,September,Yogya,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 40 - 49 ,3061.0,
+46,,September,Waroeng SS,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw,#N/A,306.0,
+47,,September,Native,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 16 - 21 ,77.0,Sustainable  Stock & HALAL
+48,,September,"Eat Well (Tawan, Ichiban)",,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 23 - 28 ,2136.0,"Sustainable  Stock, BPOM and HALAL"
+49,,September,Eat Well ,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 21 - 26 ,2260.0,"Sustainable  Stock, BPOM and HALAL"
+50,,September,Eat Well ,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 26 - 31 ,2260.0,"Sustainable  Stock, BPOM and HALAL"
+51,,September,Eat Well ,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 32 - 36 ,2260.0,"Sustainable  Stock, BPOM and HALAL"
+52,,September,Eat Well Bandung,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 23 - 28 ,636.0,"Sustainable  Stock, BPOM and HALAL"
+53,,September,Eat Well Bandung,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 21 - 26 ,673.0,"Sustainable  Stock, BPOM and HALAL"
+54,,September,Eat Well Bandung,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 26 - 31 ,673.0,"Sustainable  Stock, BPOM and HALAL"
+55,,September,Eat Well Bandung,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 32 - 36 ,673.0,"Sustainable  Stock, BPOM and HALAL"
+56,,September,Ichiyo,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 12 - 14 ,91.0,Sustainable  Stock
+57,,September,Ichiyo,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Frozen Broken,PDTO - Raw,UNDEFINED,91.0,Sustainable  Stock
+58,,September,Mie Gacoan Malang ,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Frozen Broken,PDTO - Raw,UNDEFINED,27273.0,"Sustainable  Stock, BPOM and HALAL"
+59,,September,Imperial Dimsum,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 16 - 21 ,481.0,"Sustainable  Stock, BPOM and HALAL"
+60,,September,Imperial Dimsum,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 21 - 26 ,481.0,"Sustainable  Stock, BPOM and HALAL"
+61,,September,Pasar Simpang Dago ,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,245.0,
+62,,September,Pasar Sadang Serang ,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,245.0,
+63,,September,Pasar Bermartabat,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,245.0,
+64,,September,Pasar Geger Kalong ,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,245.0,
+65,,September,Pasar Cibogo ,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,245.0,
+66,,September,Pasar Pamoyanan,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,102.0,
+67,,September,Pasar Cicaheum,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,245.0,
+68,,September,Pasar Cikaso,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,102.0,
+69,,September,Pasar Ujung Berung,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,245.0,
+70,,September,Pasar Menteng Pulo,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,245.0,
+71,,September,PASPIN,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,245.0,
+72,,September,Pasar Mampang Prapatan,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,245.0,
+73,,September,Pasar warung Buncit,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,245.0,
+74,,September,Pasar Cidodol,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,245.0,
+75,,September,Pasar Cipete Selatan ,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,245.0,
+76,,September,Pasar Cipete Utara,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,204.0,
+77,,September,Pasar Mede,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,102.0,
+78,,September,Pasar Blok A,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,102.0,
+79,,September,Pasar Klender,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,306.0,
+80,,September,Pasar Pulo Gebang Permai,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,102.0,
+81,,September,Pasar Cakung ,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,245.0,
+82,,September,Pasar Cibubur,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,102.0,
+83,,September,Pasar Ciracas,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,245.0,
+84,,September,Pasar Pondok Bambu ,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,102.0,
+85,,September,Mini Froz,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 28 - 33 ,55.0,BPOM & Halal
+86,,September,Ray Frozen Food,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,HOSO - Raw, 50 - 59 ,20.0,BPOM & Halal
+87,,September,King Frozen Indonesia,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,HOSO - Raw, 50 - 59 ,31.0,BPOM & Halal
+88,,September,King Frozen Indonesia,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 26 - 31 ,38.0,BPOM & Halal
+89,,September,Yura Frozen,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 28 - 33 ,55.0,BPOM & Halal
+90,,September,Rumah Beku ,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,HOSO - Raw, 50 - 59 ,51.0,BPOM & Halal
+91,,September,Rajawalli Sosis Baso,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,HOSO - Raw, 50 - 59 ,102.0,BPOM & Halal
+92,,September,Rajawalli Sosis Baso,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 28 - 33 ,182.0,BPOM & Halal
+93,,September,Rajawalli Sosis Baso,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 26 - 31 ,192.0,BPOM & Halal
+94,,October,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 40 - 49 ,3827.0,
+95,,October,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 50 - 59 ,2551.0,
+96,,October,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 59 - 68 ,9376.0,
+97,,October,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh ,HOSO - Raw, 89 - 117 ,6505.0,
+98,,October,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Frozen Broken ,PDTO - Raw,#N/A,30100.0,"BPOM, Halal"
+99,,October,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,HOSO - Raw, 50 - 59 ,929.0,Halal
+100,,October,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Cooked, 9 - 13  ,2489.0,"BPOM, Halal"
+101,,October,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 16 - 21 ,85.0,"SKP, Halal"
+102,,October,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 11 - 15 ,190.0,"SKP, Halal"
+103,,October,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 16 - 21 ,529.0,"SKP, Halal"
+104,,October,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 21 - 26 ,3756.0,"SKP, Halal"
+105,,October,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 26 - 31 ,3481.0,"SKP, Halal"
+106,,October,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 32 - 36 ,3227.0,"SKP, Halal"
+107,,October,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 12 - 14 ,100.0,"BPOM, Halal"
+108,,October,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 23 - 28 ,3051.0,"BPOM, Halal"
+109,,October,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 28 - 33 ,320.0,"BPOM, Halal"
+110,,November,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh,HOSO - Raw, 40 - 49 ,4592.0,
+111,,November,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh,HOSO - Raw, 50 - 59 ,3061.0,
+112,,November,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh,HOSO - Raw, 59 - 68 ,11250.0,
+113,,November,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh,HOSO - Raw, 89 - 117 ,7806.0,
+114,,November,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Frozen Broken ,PDTO - Raw,UNDEFINED,33111.0,"BPOM, Halal"
+115,,November,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,HOSO - Raw, 50 - 59 ,1393.0,Halal
+116,,November,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Cooked, 9 - 13  ,2986.0,"BPOM, Halal"
+117,,November,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 16 - 21 ,102.0,"SKP, Halal"
+118,,November,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 11 - 15 ,229.0,"SKP, Halal"
+119,,November,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 16 - 21 ,635.0,"SKP, Halal"
+120,,November,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 21 - 26 ,4506.0,"SKP, Halal"
+121,,November,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 26 - 31 ,4175.0,"SKP, Halal"
+122,,November,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 32 - 36 ,3871.0,"SKP, Halal"
+123,,November,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 12 - 14 ,120.0,"BPOM, Halal"
+124,,November,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 23 - 28 ,3660.0,"BPOM, Halal"
+125,,November,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 28 - 33 ,384.0,"BPOM, Halal"
+126,,December,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh,HOSO - Raw, 40 - 49 ,5051.0,
+127,,December,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh,HOSO - Raw, 50 - 59 ,3367.0,
+128,,December,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh,HOSO - Raw, 59 - 68 ,12376.0,
+129,,December,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Fresh,HOSO - Raw, 89 - 117 ,8587.0,
+130,,December,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,Frozen Broken ,PDTO - Raw,#N/A,39733.0,"BPOM, Halal"
+131,,December,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,HOSO - Raw, 50 - 59 ,4179.0,Halal
+132,,December,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Cooked, 9 - 13  ,3882.0,"BPOM, Halal"
+133,,December,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 16 - 21 ,133.0,"SKP, Halal"
+134,,December,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 11 - 15 ,296.0,"SKP, Halal"
+135,,December,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 16 - 21 ,825.0,"SKP, Halal"
+136,,December,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 21 - 26 ,5858.0,"SKP, Halal"
+137,,December,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 26 - 31 ,5429.0,"SKP, Halal"
+138,,December,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,P&D - Raw, 32 - 36 ,5033.0,"SKP, Halal"
+139,,December,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 12 - 14 ,156.0,"BPOM, Halal"
+140,,December,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 23 - 28 ,4758.0,"BPOM, Halal"
+141,,December,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,PDTO - Raw, 28 - 33 ,500.0,"BPOM, Halal"
+142,,,,,,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+143,,,,,,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+144,,,,,,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+145,,,,,,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+146,,,,,,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+147,,,,,,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+148,,,,,,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+149,,,,,,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+150,,,,,,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+151,,,,,,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+152,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+153,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+154,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+155,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+156,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+157,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+158,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+159,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+160,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+161,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+162,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+163,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+164,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+165,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+166,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+167,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+168,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+169,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+170,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+171,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+172,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+173,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+174,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+175,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+176,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+177,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+178,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+179,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+180,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+181,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+182,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,
+183,,,,,Marketplace,,2023-10-16T14:39:08.703508+07:00,estimated,,,,,,

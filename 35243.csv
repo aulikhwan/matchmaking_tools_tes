@@ -1,0 +1,225 @@
+row_number,customer_name,customer_id,customer_area,customer_location,demand_month,po_number,ordered_sku_code,ordered_sku_name,ordered_sku_type,etd,ordered_treat_status,order_notes,order_size,order_unit_before,translation_unit,size_convertion,order_unit_after,qty_order_lb,qty_order_kg,demand_additional_notes,raw_material_size,supply_unit,total_rm_kg,supply_notes
+2,USA,,USA,USA,October,,,,PDTO - Raw,,Untreated,Certification: BAP 4 Stars / Full,26 - 30,(PCs/Lb),PDTO - Raw (PCs/Lb),UNDEFINED,,38600.0,17509.0,, 32 - 36 ,(PCs/Kg),31834.0,
+3,Rastelli,,USA,USA,October,113297,,,P&D - Cooked,2023-10-02,Untreated,Certification: BAP 4 Stars / Full,41 - 50,(PCs/Lb),P&D - Cooked (PCs/Lb),UNDEFINED,,38600.0,17509.0," - 80/6 oz
+- Plain bag + stiker as per Rastelli design
+- Stiker inkjet with print lot code & use by date ", 40 - 48 ,(PCs/Kg),39612.0, PT Bumi Menara Internusa Lampung 
+4,USA,,USA,USA,November,,,,P&D - Raw,,Treated,Certification: BAP 2 Stars,26 - 30,(PCs/Lb),P&D - Raw (PCs/Lb),UNDEFINED,,38600.0,17509.0,, 30 - 34 ,(PCs/Kg),33670.0,
+5,USA,,USA,USA,November,,,,PDTO - Raw,,Untreated,Certification: BAP 4 Stars / Full,26 - 30,(PCs/Lb),PDTO - Raw (PCs/Lb),UNDEFINED,,38600.0,17509.0,, 32 - 36 ,(PCs/Kg),31834.0,
+6,USA,,USA,USA,November,,,,PDTO - Raw,,Untreated,Certification: BAP 4 Stars / Full,36 - 40,(PCs/Lb),PDTO - Raw (PCs/Lb),UNDEFINED,,38600.0,17509.0,, 44 - 49 ,(PCs/Kg),31834.0,
+7,USA,,USA,USA,December,,,,P&D - Raw,,Untreated,Certification: BAP 2 Star,16 - 20,(PCs/Lb),P&D - Raw (PCs/Lb),UNDEFINED,,38600.0,17509.0,, 18 - 23 ,(PCs/Kg),33670.0,
+8,USA,,USA,USA,December,,,,P&D - Cooked,,Untreated,Certification: BAP 4 Stars / Full,21 - 25,(PCs/Lb),P&D - Cooked (PCs/Lb),UNDEFINED,,38600.0,17509.0,, 21 - 25  ,(PCs/Kg),39612.0,
+9,USA,,USA,USA,December,,,,P&D - Raw,,Untreated,Certification: BAP 2 Star,31 - 35,(PCs/Lb),P&D - Raw (PCs/Lb),UNDEFINED,,38600.0,17509.0,, 35 - 40 ,(PCs/Kg),33670.0,
+10,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,September,QDYT - 2301,UDV-2-HOSO-3-C-C2-RB1800gr-31-40-10800gr-EXP,Udang Vannamei Frozen HOSO Chemfree Glaze Compensated 10-12 RB 1800gr 31-40 10800gr EXP,HOSO - Raw,2023-09-29,Chemical Free,Uncertified demand,31 - 40,(PCs/Kg),HOSO - Raw (PCs/Kg),31 - 40,,,3024.0,, 34 - 35 ,(PCs/Kg),3086.0, PT Piala Laut Indonesia 
+11,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,September,QDYT - 2301,UDV-2-HOSO-3-C-C2-RB1800gr-41-50-10800gr-EXP,Udang Vannamei Frozen HOSO Chemfree Glaze Compensated 10-12 RB 1800gr 41-50 10800gr EXP,HOSO - Raw,2023-09-29,Chemical Free,Uncertified demand,41 - 50,(PCs/Kg),HOSO - Raw (PCs/Kg),41 - 50,,,712.8,, 44 - 45 ,(PCs/Kg),727.0, PT Piala Laut Indonesia 
+12,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,September,QDYT - 2301,UDV-2-HOSO-3-C-C2-RB1800gr-51-60-10800gr-EXP,Udang Vannamei Frozen HOSO Chemfree Glaze Compensated 10-12 RB 1800gr 51-60 10800gr EXP,HOSO - Raw,2023-09-29,Chemical Free,Uncertified demand,51 - 60,(PCs/Kg),HOSO - Raw (PCs/Kg),51 - 60,,,712.8,, 54 - 55 ,(PCs/Kg),727.0, PT Piala Laut Indonesia 
+13,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,September,QDYT - 2301,UDV-2-RPD-2-S_12-U-RB500gr-31-40-10kg-EXP,Udang Vannamei Frozen RPD STPP 12 hrs Glaze Uncompensated 10-15 RB 500gr 31-40 10kg EXP,P&D - Raw,2023-09-29,STPP 12 hrs,Uncertified demand,31 - 40,(PCs/Lb),P&D - Raw (PCs/Lb),UNDEFINED,,,1350.0,, 40 - 41 ,(PCs/Kg),2596.0, PT Piala Laut Indonesia 
+14,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,September,QDYT - 2301,UDV-2-RPD-2-S_12-U-RB500gr-41-50-10kg-EXP,Udang Vannamei Frozen RPD STPP 12 hrs Glaze Uncompensated 10-15 RB 500gr 41-50 10kg EXP,P&D - Raw,2023-09-29,STPP 12 hrs,Uncertified demand,41 - 50,(PCs/Lb),P&D - Raw (PCs/Lb),UNDEFINED,,,1350.0,, 51 - 52 ,(PCs/Kg),2596.0, PT Piala Laut Indonesia 
+15,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,September,QDYT - 2301,UDV-2-RPD-2-S_12-U-RB500gr-51-60-10kg-EXP,Udang Vannamei Frozen RPD STPP 12 hrs Glaze Uncompensated 10-15 RB 500gr 51-60 10kg EXP,P&D - Raw,2023-09-29,STPP 12 hrs,Uncertified demand,51 - 60,(PCs/Lb),P&D - Raw (PCs/Lb),UNDEFINED,,,10850.0,, 63 - 64 ,(PCs/Kg),20865.0, PT Piala Laut Indonesia 
+16,NTUC,,Asia,Singapore,October,,,"12 packet x 700g / 8.4kg net weight per carton
+Carton: 12 packet
+IQF
+MC: plain white
+Inner: 5 colours",PDTO - Raw,,,Certification: BAP 2 Star,31 - 35,(PCs/Lb),PDTO - Raw (PCs/Lb),UNDEFINED,,,5600.0,, 38 - 42 ,(PCs/Kg),10182.0,
+17,NTUC,,Asia,Singapore,October,,,"20 packet x 400g / 8kg net weight per carton
+Carton: 20 packet
+IQF
+MC: plain white
+Inner: 5 colours",P&D - Raw,,,Certification: BAP 2 Star,31 - 40,(PCs/Lb),P&D - Raw (PCs/Lb),UNDEFINED,,,12000.0,, 35 - 46 ,(PCs/Kg),23077.0,
+18,NTUC,,Asia,Singapore,October,,,"12 packet x 700g / 8.4kg net weight per carton
+Carton: 12 packet
+IQF
+MC: plain white
+Inner: 5 colours",PDTO - Raw,,,Certification: BAP 2 Star,68 - 88,(PCs/Kg),PDTO - Raw (PCs/Kg),68 - 88,,,5600.0,,37 - 46,(PCs/Kg),10182.0,
+19,NTUC,,Asia,Singapore,October,,,"20 packet x 400g / 8kg net weight per carton
+Carton: 20 packet
+IQF
+MC: plain white
+Inner: 5 colours",PDTO - Cooked,,,Certification: BAP 2 Star,112 - 132,(PCs/Kg),PDTO - Cooked (PCs/Kg),112 - 132,,,4000.0,,60 - 71,(PCs/Kg),8556.0,
+20,NTUC,,Asia,Singapore,October,,,"20 packet x 400g / 8kg net weight per carton
+Carton: 20 packet
+IQF
+MC: plain white
+Inner: 5 colours",P&D - Cooked,,,Certification: BAP 2 Star,134 - 154,(PCs/Kg),P&D - Cooked (PCs/Kg),134 - 154,,,4000.0,,70 - 80,(PCs/Kg),9050.0,
+21,Edaran Jutamas Sdn Bhd,,Asia,Malaysia,November,,,,PDTO - Raw,,,,31 - 40,(PCs/Lb),PDTO - Raw (PCs/Lb),UNDEFINED,,,2700.0,, 38 - 49 ,(PCs/Kg),4909.0,
+22,Edaran Jutamas Sdn Bhd,,Asia,Malaysia,November,,,,PDTO - Raw,,,,41 - 50,(PCs/Lb),PDTO - Raw (PCs/Lb),UNDEFINED,,,2700.0,, 50 - 61 ,(PCs/Kg),4909.0,
+23,Edaran Jutamas Sdn Bhd,,Asia,Malaysia,November,,,,PDTO - Raw,,,,51 - 60,(PCs/Lb),PDTO - Raw (PCs/Lb),UNDEFINED,,,3600.0,, 62 - 73 ,(PCs/Kg),6545.0,
+24,Edaran Jutamas Sdn Bhd,,Asia,Malaysia,November,,,,P&D - Raw,,,,31 - 40,(PCs/Lb),P&D - Raw (PCs/Lb),UNDEFINED,,,2700.0,, 35 - 46 ,(PCs/Kg),5192.0,
+25,Edaran Jutamas Sdn Bhd,,Asia,Malaysia,November,,,,P&D - Raw,,,,41 - 50,(PCs/Lb),P&D - Raw (PCs/Lb),UNDEFINED,,,2700.0,, 47 - 57 ,(PCs/Kg),5192.0,
+26,Edaran Jutamas Sdn Bhd,,Asia,Malaysia,November,,,,P&D - Raw,,,,51 - 60,(PCs/Lb),P&D - Raw (PCs/Lb),UNDEFINED,,,3600.0,, 58 - 69 ,(PCs/Kg),6923.0,
+27,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,December,,UDV-2-HOSO-3-C-C2-RB1800gr-31-40-10800gr-EXP,Udang Vannamei Frozen HOSO Chemfree Glaze Compensated 10-12 RB 1800gr 31-40 10800gr EXP,HOSO - Raw,,Chemical Free,,31 - 40,(PCs/Kg),HOSO - Raw (PCs/Kg),31 - 40,,,3060.0,, 34 - 35 ,(PCs/Kg),3122.0,
+28,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,December,,UDV-2-HOSO-3-C-C2-RB1800gr-41-50-10800gr-EXP,Udang Vannamei Frozen HOSO Chemfree Glaze Compensated 10-12 RB 1800gr 41-50 10800gr EXP,HOSO - Raw,,Chemical Free,,41 - 50,(PCs/Kg),HOSO - Raw (PCs/Kg),41 - 50,,,720.0,, 44 - 45 ,(PCs/Kg),735.0,
+29,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,December,,UDV-2-HOSO-3-C-C2-RB1800gr-51-60-10800gr-EXP,Udang Vannamei Frozen HOSO Chemfree Glaze Compensated 10-12 RB 1800gr 51-60 10800gr EXP,HOSO - Raw,,Chemical Free,,51 - 60,(PCs/Kg),HOSO - Raw (PCs/Kg),51 - 60,,,720.0,, 54 - 55 ,(PCs/Kg),735.0,
+30,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,December,,UDV-2-RPD-2-S_12-U-RB500gr-31-40-10kg-EXP,Udang Vannamei Frozen RPD STPP 12 hrs Glaze Uncompensated 10-15 RB 500gr 31-40 10kg EXP,P&D - Raw,,STPP 12 hrs,,31 - 40,(PCs/Lb),P&D - Raw (PCs/Lb),UNDEFINED,,,1350.0,, 40 - 41 ,(PCs/Kg),2596.0,
+31,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,December,,UDV-2-RPD-2-S_12-U-RB500gr-41-50-10kg-EXP,Udang Vannamei Frozen RPD STPP 12 hrs Glaze Uncompensated 10-15 RB 500gr 41-50 10kg EXP,P&D - Raw,,STPP 12 hrs,,41 - 50,(PCs/Lb),P&D - Raw (PCs/Lb),UNDEFINED,,,1350.0,, 51 - 52 ,(PCs/Kg),2596.0,
+32,"Qingdao Yutai Import and Export Co., Ltd.",,Asia,China,December,,UDV-2-RPD-2-S_12-U-RB500gr-51-60-10kg-EXP,Udang Vannamei Frozen RPD STPP 12 hrs Glaze Uncompensated 10-15 RB 500gr 51-60 10kg EXP,P&D - Raw,,STPP 12 hrs,,51 - 60,(PCs/Lb),P&D - Raw (PCs/Lb),UNDEFINED,,,10800.0,, 63 - 64 ,(PCs/Kg),20769.0,
+33,NTUC,,Asia,Singapore,December,,,"12 packet x 700g / 8.4kg net weight per carton
+Carton: 12 packet
+IQF
+MC: plain white
+Inner: 5 colours",PDTO - Raw,,,Certification: BAP 2 Star,31 - 35,(PCs/Lb),PDTO - Raw (PCs/Lb),UNDEFINED,,,3231.0,, 38 - 42 ,(PCs/Kg),5875.0,
+34,NTUC,,Asia,Singapore,December,,,"20 packet x 400g / 8kg net weight per carton
+Carton: 20 packet
+IQF
+MC: plain white
+Inner: 5 colours",P&D - Raw,,,Certification: BAP 2 Star,31 - 40,(PCs/Lb),P&D - Raw (PCs/Lb),UNDEFINED,,,6924.0,, 35 - 46 ,(PCs/Kg),13315.0,
+35,NTUC,,Asia,Singapore,December,,,"12 packet x 700g / 8.4kg net weight per carton
+Carton: 12 packet
+IQF
+MC: plain white
+Inner: 5 colours",PDTO - Raw,,,Certification: BAP 2 Star,68 - 88,(PCs/Kg),PDTO - Raw (PCs/Kg),68 - 88,,,3231.0,,37 - 46,(PCs/Kg),5875.0,
+36,NTUC,,Asia,Singapore,December,,,"20 packet x 400g / 8kg net weight per carton
+Carton: 20 packet
+IQF
+MC: plain white
+Inner: 5 colours",PDTO - Cooked,,,Certification: BAP 2 Star,112 - 132,(PCs/Kg),PDTO - Cooked (PCs/Kg),112 - 132,,,2308.0,,60 - 71,(PCs/Kg),4937.0,
+37,NTUC,,Asia,Singapore,December,,,"20 packet x 400g / 8kg net weight per carton
+Carton: 20 packet
+IQF
+MC: plain white
+Inner: 5 colours",P&D - Cooked,,,Certification: BAP 2 Star,134 - 154,(PCs/Kg),P&D - Cooked (PCs/Kg),134 - 154,,,2308.0,,70 - 80,(PCs/Kg),5222.0,
+38,AEON,,Marketplace,,September,,,,P&D - Cooked,,,BPOM Halal & White Labeling (Could be exclusive brand),21 - 30,(PCs/Kg),P&D - Cooked (PCs/Kg),21 - 30,,,1000.0,, 9 - 13  ,(PCs/Kg),2262.0,
+39,AEON,,Marketplace,,September,,,,P&D - Raw,,,,21 - 30,(PCs/Kg),P&D - Raw (PCs/Kg),21 - 30,,,90.0,, 11 - 15 ,(PCs/Kg),173.0,
+40,AEON,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,51 - 60,(PCs/Kg),HOSO - Raw (PCs/Kg),51 - 60,,,2000.0,, 50 - 59 ,(PCs/Kg),2041.0,
+41,Superindo,,Marketplace,,September,,,,HOSO - Raw,,,,51 - 60,(PCs/Kg),HOSO - Raw (PCs/Kg),51 - 60,,,500.0,, 50 - 59 ,(PCs/Kg),510.0,
+42,Superindo,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,61 - 70,(PCs/Kg),HOSO - Raw (PCs/Kg),61 - 70,,,6000.0,, 59 - 68 ,(PCs/Kg),6122.0,
+43,HERO,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,61 - 70,(PCs/Kg),HOSO - Raw (PCs/Kg),61 - 70,,,600.0,, 59 - 68 ,(PCs/Kg),612.0,
+44,GS Supermarket ,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,61 - 70,(PCs/Kg),HOSO - Raw (PCs/Kg),61 - 70,,,750.0,, 59 - 68 ,(PCs/Kg),765.0,
+45,Yogya,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,41 - 50,(PCs/Kg),HOSO - Raw (PCs/Kg),41 - 50,,,3000.0,, 40 - 49 ,(PCs/Kg),3061.0,
+46,Waroeng SS,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,300.0,,#N/A,(PCs/Kg),306.0,
+47,Native,,Marketplace,,September,,,,P&D - Raw,,,Sustainable  Stock & HALAL,31 - 40,(PCs/Kg),P&D - Raw (PCs/Kg),31 - 40,,,40.0,, 16 - 21 ,(PCs/Kg),77.0,
+48,"Eat Well (Tawan, Ichiban)",,Marketplace,,September,,,,PDTO - Raw,,,"Sustainable  Stock, BPOM and HALAL",41 - 50,(PCs/Kg),PDTO - Raw (PCs/Kg),41 - 50,,,1175.0,, 23 - 28 ,(PCs/Kg),2136.0,
+49,Eat Well ,,Marketplace,,September,,,,P&D - Raw,,,"Sustainable  Stock, BPOM and HALAL",41 - 50,(PCs/Kg),P&D - Raw (PCs/Kg),41 - 50,,,1175.0,, 21 - 26 ,(PCs/Kg),2260.0,
+50,Eat Well ,,Marketplace,,September,,,,P&D - Raw,,,"Sustainable  Stock, BPOM and HALAL",51 - 60,(PCs/Kg),P&D - Raw (PCs/Kg),51 - 60,,,1175.0,, 26 - 31 ,(PCs/Kg),2260.0,
+51,Eat Well ,,Marketplace,,September,,,,P&D - Raw,,,"Sustainable  Stock, BPOM and HALAL",61 - 70,(PCs/Kg),P&D - Raw (PCs/Kg),61 - 70,,,1175.0,, 32 - 36 ,(PCs/Kg),2260.0,
+52,Eat Well Bandung,,Marketplace,,September,,,,PDTO - Raw,,,"Sustainable  Stock, BPOM and HALAL",41 - 50,(PCs/Kg),PDTO - Raw (PCs/Kg),41 - 50,,,350.0,, 23 - 28 ,(PCs/Kg),636.0,
+53,Eat Well Bandung,,Marketplace,,September,,,,P&D - Raw,,,"Sustainable  Stock, BPOM and HALAL",41 - 50,(PCs/Kg),P&D - Raw (PCs/Kg),41 - 50,,,350.0,, 21 - 26 ,(PCs/Kg),673.0,
+54,Eat Well Bandung,,Marketplace,,September,,,,P&D - Raw,,,"Sustainable  Stock, BPOM and HALAL",51 - 60,(PCs/Kg),P&D - Raw (PCs/Kg),51 - 60,,,350.0,, 26 - 31 ,(PCs/Kg),673.0,
+55,Eat Well Bandung,,Marketplace,,September,,,,P&D - Raw,,,"Sustainable  Stock, BPOM and HALAL",61 - 70,(PCs/Kg),P&D - Raw (PCs/Kg),61 - 70,,,350.0,, 32 - 36 ,(PCs/Kg),673.0,
+56,Ichiyo,,Marketplace,,September,,,,PDTO - Raw,,,Sustainable  Stock,21 - 25,(PCs/Kg),PDTO - Raw (PCs/Kg),21 - 25,,,50.0,, 12 - 14 ,(PCs/Kg),91.0,
+57,Ichiyo,,Marketplace,,September,,,Frozen Broken,PDTO - Raw,,,Sustainable  Stock,Any Kind,(PCs/Kg),PDTO - Raw (PCs/Kg),Any Kind,,,50.0,,UNDEFINED,(PCs/Kg),91.0,
+58,Mie Gacoan Malang ,,Marketplace,,September,,,Frozen Broken,PDTO - Raw,,,"Sustainable  Stock, BPOM and HALAL",Any Kind,(PCs/Kg),PDTO - Raw (PCs/Kg),Any Kind,,,15000.0,,UNDEFINED,(PCs/Kg),27273.0,
+59,Imperial Dimsum,,Marketplace,,September,,,,P&D - Raw,,,"Sustainable  Stock, BPOM and HALAL",31 - 40,(PCs/Kg),P&D - Raw (PCs/Kg),31 - 40,,,250.0,, 16 - 21 ,(PCs/Kg),481.0,
+60,Imperial Dimsum,,Marketplace,,September,,,,P&D - Raw,,,"Sustainable  Stock, BPOM and HALAL",41 - 50,(PCs/Kg),P&D - Raw (PCs/Kg),41 - 50,,,250.0,, 21 - 26 ,(PCs/Kg),481.0,
+61,Pasar Simpang Dago ,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,240.0,, 89 - 117 ,(PCs/Kg),245.0,
+62,Pasar Sadang Serang ,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,240.0,, 89 - 117 ,(PCs/Kg),245.0,
+63,Pasar Bermartabat,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,240.0,, 89 - 117 ,(PCs/Kg),245.0,
+64,Pasar Geger Kalong ,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,240.0,, 89 - 117 ,(PCs/Kg),245.0,
+65,Pasar Cibogo ,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,240.0,, 89 - 117 ,(PCs/Kg),245.0,
+66,Pasar Pamoyanan,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,100.0,, 89 - 117 ,(PCs/Kg),102.0,
+67,Pasar Cicaheum,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,240.0,, 89 - 117 ,(PCs/Kg),245.0,
+68,Pasar Cikaso,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,100.0,, 89 - 117 ,(PCs/Kg),102.0,
+69,Pasar Ujung Berung,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,240.0,, 89 - 117 ,(PCs/Kg),245.0,
+70,Pasar Menteng Pulo,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,240.0,, 89 - 117 ,(PCs/Kg),245.0,
+71,PASPIN,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,240.0,, 89 - 117 ,(PCs/Kg),245.0,
+72,Pasar Mampang Prapatan,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,240.0,, 89 - 117 ,(PCs/Kg),245.0,
+73,Pasar warung Buncit,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,240.0,, 89 - 117 ,(PCs/Kg),245.0,
+74,Pasar Cidodol,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,240.0,, 89 - 117 ,(PCs/Kg),245.0,
+75,Pasar Cipete Selatan ,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,240.0,, 89 - 117 ,(PCs/Kg),245.0,
+76,Pasar Cipete Utara,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,200.0,, 89 - 117 ,(PCs/Kg),204.0,
+77,Pasar Mede,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,100.0,, 89 - 117 ,(PCs/Kg),102.0,
+78,Pasar Blok A,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,100.0,, 89 - 117 ,(PCs/Kg),102.0,
+79,Pasar Klender,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,300.0,, 89 - 117 ,(PCs/Kg),306.0,
+80,Pasar Pulo Gebang Permai,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,100.0,, 89 - 117 ,(PCs/Kg),102.0,
+81,Pasar Cakung ,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,240.0,, 89 - 117 ,(PCs/Kg),245.0,
+82,Pasar Cibubur,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,100.0,, 89 - 117 ,(PCs/Kg),102.0,
+83,Pasar Ciracas,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,240.0,, 89 - 117 ,(PCs/Kg),245.0,
+84,Pasar Pondok Bambu ,,Marketplace,,September,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,100.0,, 89 - 117 ,(PCs/Kg),102.0,
+85,Mini Froz,,Marketplace,,September,,,,PDTO - Raw,,,BPOM & Halal,51 - 60,(PCs/Kg),PDTO - Raw (PCs/Kg),51 - 60,,,30.0,, 28 - 33 ,(PCs/Kg),55.0,
+86,Ray Frozen Food,,Marketplace,,September,,,,HOSO - Raw,,,BPOM & Halal,51 - 60,(PCs/Kg),HOSO - Raw (PCs/Kg),51 - 60,,,20.0,, 50 - 59 ,(PCs/Kg),20.0,
+87,King Frozen Indonesia,,Marketplace,,September,,,,HOSO - Raw,,,BPOM & Halal,51 - 60,(PCs/Kg),HOSO - Raw (PCs/Kg),51 - 60,,,30.0,, 50 - 59 ,(PCs/Kg),31.0,
+88,King Frozen Indonesia,,Marketplace,,September,,,,P&D - Raw,,,BPOM & Halal,51 - 60,(PCs/Kg),P&D - Raw (PCs/Kg),51 - 60,,,20.0,, 26 - 31 ,(PCs/Kg),38.0,
+89,Yura Frozen,,Marketplace,,September,,,,PDTO - Raw,,,BPOM & Halal,51 - 60,(PCs/Kg),PDTO - Raw (PCs/Kg),51 - 60,,,30.0,, 28 - 33 ,(PCs/Kg),55.0,
+90,Rumah Beku ,,Marketplace,,September,,,,HOSO - Raw,,,BPOM & Halal,51 - 60,(PCs/Kg),HOSO - Raw (PCs/Kg),51 - 60,,,50.0,, 50 - 59 ,(PCs/Kg),51.0,
+91,Rajawalli Sosis Baso,,Marketplace,,September,,,,HOSO - Raw,,,BPOM & Halal,51 - 60,(PCs/Kg),HOSO - Raw (PCs/Kg),51 - 60,,,100.0,, 50 - 59 ,(PCs/Kg),102.0,
+92,Rajawalli Sosis Baso,,Marketplace,,September,,,,PDTO - Raw,,,BPOM & Halal,51 - 60,(PCs/Kg),PDTO - Raw (PCs/Kg),51 - 60,,,100.0,, 28 - 33 ,(PCs/Kg),182.0,
+93,Rajawalli Sosis Baso,,Marketplace,,September,,,,P&D - Raw,,,BPOM & Halal,51 - 60,(PCs/Kg),P&D - Raw (PCs/Kg),51 - 60,,,100.0,, 26 - 31 ,(PCs/Kg),192.0,
+94,,,Marketplace,,October,,,Fresh ,HOSO - Raw,,,,41 - 50,(PCs/Kg),HOSO - Raw (PCs/Kg),41 - 50,,,3750.0,, 40 - 49 ,(PCs/Kg),3827.0,
+95,,,Marketplace,,October,,,Fresh ,HOSO - Raw,,,,51 - 60,(PCs/Kg),HOSO - Raw (PCs/Kg),51 - 60,,,2500.0,, 50 - 59 ,(PCs/Kg),2551.0,
+96,,,Marketplace,,October,,,Fresh ,HOSO - Raw,,,,61 - 70,(PCs/Kg),HOSO - Raw (PCs/Kg),61 - 70,,,9188.0,, 59 - 68 ,(PCs/Kg),9376.0,
+97,,,Marketplace,,October,,,Fresh ,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,6375.0,, 89 - 117 ,(PCs/Kg),6505.0,
+98,,,Marketplace,,October,,,Frozen Broken ,PDTO - Raw,,,"BPOM, Halal",Any Kind,(PCs/Kg),PDTO - Raw (PCs/Kg),Any Kind,,,16555.0,,#N/A,(PCs/Kg),30100.0,
+99,,,Marketplace,,October,,,,HOSO - Raw,,,Halal,51 - 60,(PCs/Kg),HOSO - Raw (PCs/Kg),51 - 60,,,910.0,, 50 - 59 ,(PCs/Kg),929.0,
+100,,,Marketplace,,October,,,,P&D - Cooked,,,"BPOM, Halal",21 - 30,(PCs/Kg),P&D - Cooked (PCs/Kg),21 - 30,,,1100.0,, 9 - 13  ,(PCs/Kg),2489.0,
+101,,,Marketplace,,October,,,,P&D - Raw,,,"SKP, Halal",31 - 40,(PCs/Kg),P&D - Raw (PCs/Kg),31 - 40,,,44.0,, 16 - 21 ,(PCs/Kg),85.0,
+102,,,Marketplace,,October,,,,P&D - Raw,,,"SKP, Halal",21 - 30,(PCs/Kg),P&D - Raw (PCs/Kg),21 - 30,,,99.0,, 11 - 15 ,(PCs/Kg),190.0,
+103,,,Marketplace,,October,,,,P&D - Raw,,,"SKP, Halal",31 - 40,(PCs/Kg),P&D - Raw (PCs/Kg),31 - 40,,,275.0,, 16 - 21 ,(PCs/Kg),529.0,
+104,,,Marketplace,,October,,,,P&D - Raw,,,"SKP, Halal",41 - 50,(PCs/Kg),P&D - Raw (PCs/Kg),41 - 50,,,1953.0,, 21 - 26 ,(PCs/Kg),3756.0,
+105,,,Marketplace,,October,,,,P&D - Raw,,,"SKP, Halal",51 - 60,(PCs/Kg),P&D - Raw (PCs/Kg),51 - 60,,,1810.0,, 26 - 31 ,(PCs/Kg),3481.0,
+106,,,Marketplace,,October,,,,P&D - Raw,,,"SKP, Halal",61 - 70,(PCs/Kg),P&D - Raw (PCs/Kg),61 - 70,,,1678.0,, 32 - 36 ,(PCs/Kg),3227.0,
+107,,,Marketplace,,October,,,,PDTO - Raw,,,"BPOM, Halal",21 - 25,(PCs/Kg),PDTO - Raw (PCs/Kg),21 - 25,,,55.0,, 12 - 14 ,(PCs/Kg),100.0,
+108,,,Marketplace,,October,,,,PDTO - Raw,,,"BPOM, Halal",41 - 50,(PCs/Kg),PDTO - Raw (PCs/Kg),41 - 50,,,1678.0,, 23 - 28 ,(PCs/Kg),3051.0,
+109,,,Marketplace,,October,,,,PDTO - Raw,,,"BPOM, Halal",51 - 60,(PCs/Kg),PDTO - Raw (PCs/Kg),51 - 60,,,176.0,, 28 - 33 ,(PCs/Kg),320.0,
+110,,,Marketplace,,November,,,Fresh,HOSO - Raw,,,,41 - 50,(PCs/Kg),HOSO - Raw (PCs/Kg),41 - 50,,,4500.0,, 40 - 49 ,(PCs/Kg),4592.0,
+111,,,Marketplace,,November,,,Fresh,HOSO - Raw,,,,51 - 60,(PCs/Kg),HOSO - Raw (PCs/Kg),51 - 60,,,3000.0,, 50 - 59 ,(PCs/Kg),3061.0,
+112,,,Marketplace,,November,,,Fresh,HOSO - Raw,,,,61 - 70,(PCs/Kg),HOSO - Raw (PCs/Kg),61 - 70,,,11025.0,, 59 - 68 ,(PCs/Kg),11250.0,
+113,,,Marketplace,,November,,,Fresh,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,7650.0,, 89 - 117 ,(PCs/Kg),7806.0,
+114,,,Marketplace,,November,,,Frozen Broken ,PDTO - Raw,,,"BPOM, Halal",Any Kind,(PCs/Kg),PDTO - Raw (PCs/Kg),Any Kind,,,18211.0,,UNDEFINED,(PCs/Kg),33111.0,
+115,,,Marketplace,,November,,,,HOSO - Raw,,,Halal,51 - 60,(PCs/Kg),HOSO - Raw (PCs/Kg),51 - 60,,,1365.0,, 50 - 59 ,(PCs/Kg),1393.0,
+116,,,Marketplace,,November,,,,P&D - Cooked,,,"BPOM, Halal",21 - 30,(PCs/Kg),P&D - Cooked (PCs/Kg),21 - 30,,,1320.0,, 9 - 13  ,(PCs/Kg),2986.0,
+117,,,Marketplace,,November,,,,P&D - Raw,,,"SKP, Halal",31 - 40,(PCs/Kg),P&D - Raw (PCs/Kg),31 - 40,,,53.0,, 16 - 21 ,(PCs/Kg),102.0,
+118,,,Marketplace,,November,,,,P&D - Raw,,,"SKP, Halal",21 - 30,(PCs/Kg),P&D - Raw (PCs/Kg),21 - 30,,,119.0,, 11 - 15 ,(PCs/Kg),229.0,
+119,,,Marketplace,,November,,,,P&D - Raw,,,"SKP, Halal",31 - 40,(PCs/Kg),P&D - Raw (PCs/Kg),31 - 40,,,330.0,, 16 - 21 ,(PCs/Kg),635.0,
+120,,,Marketplace,,November,,,,P&D - Raw,,,"SKP, Halal",41 - 50,(PCs/Kg),P&D - Raw (PCs/Kg),41 - 50,,,2343.0,, 21 - 26 ,(PCs/Kg),4506.0,
+121,,,Marketplace,,November,,,,P&D - Raw,,,"SKP, Halal",51 - 60,(PCs/Kg),P&D - Raw (PCs/Kg),51 - 60,,,2171.0,, 26 - 31 ,(PCs/Kg),4175.0,
+122,,,Marketplace,,November,,,,P&D - Raw,,,"SKP, Halal",61 - 70,(PCs/Kg),P&D - Raw (PCs/Kg),61 - 70,,,2013.0,, 32 - 36 ,(PCs/Kg),3871.0,
+123,,,Marketplace,,November,,,,PDTO - Raw,,,"BPOM, Halal",21 - 25,(PCs/Kg),PDTO - Raw (PCs/Kg),21 - 25,,,66.0,, 12 - 14 ,(PCs/Kg),120.0,
+124,,,Marketplace,,November,,,,PDTO - Raw,,,"BPOM, Halal",41 - 50,(PCs/Kg),PDTO - Raw (PCs/Kg),41 - 50,,,2013.0,, 23 - 28 ,(PCs/Kg),3660.0,
+125,,,Marketplace,,November,,,,PDTO - Raw,,,"BPOM, Halal",51 - 60,(PCs/Kg),PDTO - Raw (PCs/Kg),51 - 60,,,211.0,, 28 - 33 ,(PCs/Kg),384.0,
+126,,,Marketplace,,December,,,Fresh,HOSO - Raw,,,,41 - 50,(PCs/Kg),HOSO - Raw (PCs/Kg),41 - 50,,,4950.0,, 40 - 49 ,(PCs/Kg),5051.0,
+127,,,Marketplace,,December,,,Fresh,HOSO - Raw,,,,51 - 60,(PCs/Kg),HOSO - Raw (PCs/Kg),51 - 60,,,3300.0,, 50 - 59 ,(PCs/Kg),3367.0,
+128,,,Marketplace,,December,,,Fresh,HOSO - Raw,,,,61 - 70,(PCs/Kg),HOSO - Raw (PCs/Kg),61 - 70,,,12128.0,, 59 - 68 ,(PCs/Kg),12376.0,
+129,,,Marketplace,,December,,,Fresh,HOSO - Raw,,,,91-120,(PCs/Kg),HOSO - Raw (PCs/Kg),91-120,,,8415.0,, 89 - 117 ,(PCs/Kg),8587.0,
+130,,,Marketplace,,December,,,Frozen Broken ,PDTO - Raw,,,"BPOM, Halal",Any Kind,(PCs/Kg),PDTO - Raw (PCs/Kg),Any Kind,,,21853.0,,#N/A,(PCs/Kg),39733.0,
+131,,,Marketplace,,December,,,,HOSO - Raw,,,Halal,51 - 60,(PCs/Kg),HOSO - Raw (PCs/Kg),51 - 60,,,4095.0,, 50 - 59 ,(PCs/Kg),4179.0,
+132,,,Marketplace,,December,,,,P&D - Cooked,,,"BPOM, Halal",21 - 30,(PCs/Kg),P&D - Cooked (PCs/Kg),21 - 30,,,1716.0,, 9 - 13  ,(PCs/Kg),3882.0,
+133,,,Marketplace,,December,,,,P&D - Raw,,,"SKP, Halal",31 - 40,(PCs/Kg),P&D - Raw (PCs/Kg),31 - 40,,,69.0,, 16 - 21 ,(PCs/Kg),133.0,
+134,,,Marketplace,,December,,,,P&D - Raw,,,"SKP, Halal",21 - 30,(PCs/Kg),P&D - Raw (PCs/Kg),21 - 30,,,154.0,, 11 - 15 ,(PCs/Kg),296.0,
+135,,,Marketplace,,December,,,,P&D - Raw,,,"SKP, Halal",31 - 40,(PCs/Kg),P&D - Raw (PCs/Kg),31 - 40,,,429.0,, 16 - 21 ,(PCs/Kg),825.0,
+136,,,Marketplace,,December,,,,P&D - Raw,,,"SKP, Halal",41 - 50,(PCs/Kg),P&D - Raw (PCs/Kg),41 - 50,,,3046.0,, 21 - 26 ,(PCs/Kg),5858.0,
+137,,,Marketplace,,December,,,,P&D - Raw,,,"SKP, Halal",51 - 60,(PCs/Kg),P&D - Raw (PCs/Kg),51 - 60,,,2823.0,, 26 - 31 ,(PCs/Kg),5429.0,
+138,,,Marketplace,,December,,,,P&D - Raw,,,"SKP, Halal",61 - 70,(PCs/Kg),P&D - Raw (PCs/Kg),61 - 70,,,2617.0,, 32 - 36 ,(PCs/Kg),5033.0,
+139,,,Marketplace,,December,,,,PDTO - Raw,,,"BPOM, Halal",21 - 25,(PCs/Kg),PDTO - Raw (PCs/Kg),21 - 25,,,86.0,, 12 - 14 ,(PCs/Kg),156.0,
+140,,,Marketplace,,December,,,,PDTO - Raw,,,"BPOM, Halal",41 - 50,(PCs/Kg),PDTO - Raw (PCs/Kg),41 - 50,,,2617.0,, 23 - 28 ,(PCs/Kg),4758.0,
+141,,,Marketplace,,December,,,,PDTO - Raw,,,"BPOM, Halal",51 - 60,(PCs/Kg),PDTO - Raw (PCs/Kg),51 - 60,,,275.0,, 28 - 33 ,(PCs/Kg),500.0,
+142,,,,,,,,,,,,,,,,,,,,,,,,
+143,,,,,,,,,,,,,,,,,,,,,,,,
+144,,,,,,,,,,,,,,,,,,,,,,,,
+145,,,,,,,,,,,,,,,,,,,,,,,,
+146,,,,,,,,,,,,,,,,,,,,,,,,
+147,,,,,,,,,,,,,,,,,,,,,,,,
+148,,,,,,,,,,,,,,,,,,,,,,,,
+149,,,,,,,,,,,,,,,,,,,,,,,,
+150,,,,,,,,,,,,,,,,,,,,,,,,
+151,,,,,,,,,,,,,,,,,,,,,,,,
+152,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+153,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+154,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+155,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+156,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+157,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+158,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+159,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+160,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+161,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+162,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+163,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+164,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+165,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+166,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+167,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+168,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+169,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+170,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+171,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+172,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+173,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+174,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+175,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+176,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+177,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+178,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+179,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+180,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+181,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+182,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
+183,,,Marketplace,,,,,,,,,,,,,,,,,,,,,
